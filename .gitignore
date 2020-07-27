@@ -1,0 +1,7 @@
+jenkins/terraform.tfvars
+jenkins/jenkinskey
+jenkins/jenkinskey.pub
+jenkins/.terraform/*
+packer/pubkey
+packer/pubkey.pub
+packer/.terraform/*
